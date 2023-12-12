@@ -16,7 +16,6 @@ The second example demonstrates the power of **OpenGL**, a graphics library used
 
 ```{r klippy, echo=FALSE, include=TRUE}
 git clone https://github.com/SouhailKrs/OpenGL-OpenCV-Example
-
 ```
 
 
