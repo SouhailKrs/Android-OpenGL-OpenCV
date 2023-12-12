@@ -15,7 +15,7 @@ The second example demonstrates the power of **OpenGL**, a graphics library used
 - Clone or download the repo 
 
 ```{r klippy, echo=FALSE, include=TRUE}
-git clone https://github.com/SouhailKrs/OpenGL-OpenCV-Example
+git clone https://github.com/SouhailKrs/Android-OpenGL-OpenCV
 ```
 
 
