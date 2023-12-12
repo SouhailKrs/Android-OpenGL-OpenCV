@@ -1,4 +1,4 @@
-<h1 align="center"> OpenCV & OpenGL </h1> <br>
+<h1 align="center"> OpenCV & OpenGL Android Sample </h1> <br>
 
 
 
